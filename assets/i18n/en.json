@@ -1,0 +1,40 @@
+{
+    "TUTORIAL":"english",
+
+    "DIAS":"-----------------------DIAS-------------------------------",
+    "LUNES":"Luni",
+    "MARTES":"Marți",
+    "MIERCOLES":"Miercuri",
+    "JUEVES":"Joi",
+    "VIERNES":"Vineri",
+    "SABADO":"Sâmbătă",
+    "DOMINGO":"Duminică",
+    
+    "MESES":"-----------------------MONTHS-------------------------------",
+    "ene":"jun",
+    "feb":"feb",
+    "mar":"mar",
+    "abr":"apr",
+    "may":"mai",
+    "jun":"iun",
+    "jul":"iul",
+    "ago":"aug",
+    "sep":"sep",
+    "oct":"oct",
+    "nov":"noi",
+    "dic":"dec",
+
+    "LABELS1":"-------------------------------------------------CARGANDO SERVICE--------------------------------------------",
+    "loading":"Caricamento in corso...",
+    "serverOnline": "Server API-REST PROTOCOL 73 online",
+    "errorServer": "No se pudo realizar la conexión con el servidor.",
+
+    "LABELS2":"-------------------------------------------------CRUD---------------------------------------------------------",
+    "saved": "Record saved successfully.",
+    "updated": "Registry updated successfully.",
+    "deleted": "Record deleted successfully.",
+    "errorSaved": "Failed to save record.",
+    "errorUpdated": "Failed to save record.",
+    "errorDeleted": "Could not delete record."
+    
+}

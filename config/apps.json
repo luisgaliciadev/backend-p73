@@ -1,0 +1,53 @@
+{
+  "development": {
+    "notificationsKey": "**",
+    "notificationsPrivateKey": "**",
+    "keyStripe": "**",
+    "etixMarket": {
+      "url": "https://beta-market.youetix.com",
+      "token": "**"
+    },
+    "etixPay": {
+      "url": "https://api-alfa.youetix.com",
+      "token": "**"
+    },
+    "p73": {
+      "url": "https://api-beta.protocol73.com",
+      "token": ""
+    }
+  },
+  "test": {
+    "notificationsKey": "**",
+    "notificationsPrivateKey": "**",
+    "keyStripe": "**",
+    "etixMarket": {
+      "url": "https://beta-market.youetix.com",
+      "token": "**"
+    },
+    "etixPay": {
+      "url": "https://api-alfa.youetix.com",
+      "token": "**"
+    },
+    "p73": {
+      "url": "https://api-beta.protocol73.com",
+      "token": ""
+    }
+  },
+  "production": {
+    "notificationsKey": "**",
+    "notificationsPrivateKey": "**",
+    "keyStripe": "**",
+    "etixMarket": {
+      "url": "https://beta-market.youetix.com",
+      "token": "**"
+    },
+    "etixPay": {
+      "url": "https://api.youetix.com",
+      "token": "**"
+    },
+    "p73": {
+      "url": "https://api.protocol73.com",
+      "token": ""
+    }
+  }
+}
